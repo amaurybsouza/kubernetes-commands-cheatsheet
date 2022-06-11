@@ -21,6 +21,10 @@ kubectl get services
 ```
 
 ```bash
+kubectl get pods --all-namespaces
+```
+
+```bash
 kubectl get deployments
 ```
 
